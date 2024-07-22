@@ -7,17 +7,19 @@
 
   Whatsapp ScreenShotları**:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/12umyrv"  ><a href="//imgur.com/a/12umyrv">SPRINT2</a></blockquote>
+![WhatsApp Görsel 2024-07-22 saat 23 12 13_34d4a4f4](https://github.com/user-attachments/assets/ed7ac542-6a2e-4ad0-a3bf-eef10ff32933)
+![WhatsApp Görsel 2024-07-22 saat 23 12 13_d53edcaa](https://github.com/user-attachments/assets/f2a6d469-7d4b-4e24-9147-1ee953b7da2b)
+![WhatsApp Görsel 2024-07-22 saat 23 12 13_9b0f49ed](https://github.com/user-attachments/assets/0418f726-dfb5-4864-a121-9feed54b7ef7)
 
 - **Referans Gorsel**:
 
-
-- **Sprint 2 board update**: Sprint 2 Board Screenshot: 
-
-
-
-
 - **Ürün Durumu**: Ekran Görüntüleri:
 
+![WhatsApp Görsel 2024-07-22 saat 23 07 31_3086eab6](https://github.com/user-attachments/assets/5b42a5d1-7bab-436b-902b-4af96ed20515)
+![WhatsApp Görsel 2024-07-22 saat 23 07 33_41c59691](https://github.com/user-attachments/assets/91381447-d595-4ca1-b7e5-f4e95a9e84e9)
+![WhatsApp Görsel 2024-07-22 saat 23 07 32_5147d370](https://github.com/user-attachments/assets/7a22fdc3-af0d-416a-b3b4-732f59f030c3)
+![WhatsApp Görsel 2024-07-22 saat 23 07 32_b993ae45](https://github.com/user-attachments/assets/85b13225-7c74-48d0-a031-5e6a6eaf7e71)
+![WhatsApp Görsel 2024-07-22 saat 23 07 31_3086eab6](https://github.com/user-attachments/assets/971574ac-6888-44c9-82e5-f297b7c523b8)
 
 - **Sprint Review**:
     - Sprint 2'nin sonunda ekip ile toplantıda yapay zeka için tasarımlar gerçekleştirilmek üzere planlama yapıldı düznelmeler sprint üç için yapılacak.
