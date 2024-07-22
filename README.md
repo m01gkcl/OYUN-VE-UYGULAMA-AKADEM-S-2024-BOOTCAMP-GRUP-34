@@ -7,9 +7,9 @@
 
   Whatsapp ScreenShotları**:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/12umyrv"  ><a href="//imgur.com/a/12umyrv">SPRINT2</a></blockquote>
-![WhatsApp Görsel 2024-07-22 saat 23 12 13_34d4a4f4](https://github.com/user-attachments/assets/ed7ac542-6a2e-4ad0-a3bf-eef10ff32933)
-![WhatsApp Görsel 2024-07-22 saat 23 12 13_d53edcaa](https://github.com/user-attachments/assets/f2a6d469-7d4b-4e24-9147-1ee953b7da2b)
-![WhatsApp Görsel 2024-07-22 saat 23 12 13_9b0f49ed](https://github.com/user-attachments/assets/0418f726-dfb5-4864-a121-9feed54b7ef7)
+(https://github.com/user-attachments/assets/ed7ac542-6a2e-4ad0-a3bf-eef10ff32933)
+(https://github.com/user-attachments/assets/f2a6d469-7d4b-4e24-9147-1ee953b7da2b)
+(https://github.com/user-attachments/assets/0418f726-dfb5-4864-a121-9feed54b7ef7)
 
 - **Referans Gorsel**:
 
