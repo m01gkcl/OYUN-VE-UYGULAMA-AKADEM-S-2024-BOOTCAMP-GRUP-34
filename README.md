@@ -19,10 +19,6 @@
 - **Ürün Durumu**: Ekran Görüntüleri:
 
 
-
-![blossom](https://github.com/kevsoOther/U-21-Cherry-Chasers/assets/170053523/a0dd64ee-49ff-4e17-98e0-c20c93f083ed)
-
-
 - **Sprint Review**:
     - Sprint 2'nin sonunda ekip ile toplantıda yapay zeka için tasarımlar gerçekleştirilmek üzere planlama yapıldı düznelmeler sprint üç için yapılacak.
     - Sprint Review katılımcıları.  Maide Gökçeli, Lütfullah Şener, Kerem Özcan, Melike Ateş, Levent Günaydın.
