@@ -2,10 +2,10 @@
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 12 Puan
 
-- **Daily Scrum**: Daily Scrum toplantıları hem Whatsapp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır. Tasarım için ayrı bir Whatsapp grubu kurulmuştur. Whatsapp üzerinde tasarım dili oturtulmuştur. Günlük olarak mekanik yazılımları ve modellemeler yapılmıştır. (Bayram tatili boyunca müsaitlik sağlanamadı)
-- **Tasarım Whatsapp Grubu Mantığı**: Grup içerisinde haritaların ve karakterlerin görsel dili tamamen oturtulmuştur. Bir sonraki map için tasarım dili hazır hale gelmiştir. 
+- **Daily Scrum**: Daily Scrum toplantıları hem Whatsapp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır. Whatsapp üzerinde tasarım dili oturtulmuştur. Günlük olarak mekanik yazılımları ve modellemeler yapılmıştır.
 
-  - **Toplantı ve Whatsapp ScreenShotları**:
+
+  Whatsapp ScreenShotları**:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/12umyrv"  ><a href="//imgur.com/a/12umyrv">SPRINT2</a></blockquote>
 
 - **Referans Gorsel**:
@@ -42,18 +42,19 @@
 
 
 - **Sprint Review**:
-    - Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Online sistem dışında istenilen amaçlara ulaşılmıştır. Tasarım dili karar verilmiş ve oyuna entegre edilmiştir.
-    - Sprint Review katılımcıları: Ahmet Yunus Turna, Arif Furkan Karaca, Kevser Bilgiç, Umut Yiğit, Hilal Karakuş.
+    - Sprint 2'nin sonunda ekip ile toplantıda yapay zeka için tasarımlar gerçekleştirilmek üzere planlama yapıldı düznelmeler sprint üç için yapılacak.
+    - Sprint Review katılımcıları.  Maide Gökçeli, Lütfullah Şener, Kerem Özcan, Melike Ateş, Levent Günaydın.
 
 
 
 
 - **Sprint Retrospective:**
-    - **Sprint 2 için alınan puan 11'dir.** Online sistemi çözmek diğer sprint'e kalmıştır.
+    - **Sprint 2 için alınan puan 100'dir.** Oyun temel düzeyde tasarlanmış ve gerekli melanikler tasarlanmıştır.
     - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-    - Modellemeler ile ilgili tasarım grubunun görevleri dağılmış, daha az iş kaldığı için developing kısmına el atılması gerektiğine karar kılınmıştır.
+   - Yapay zeka için gerekli entegreler notlandırılmıştır
+   - Modellemeler ile ilgili tasarım grubunun görevleri dağılmış, daha az iş kaldığı için developing kısmına el atılması gerektiğine karar kılınmıştır.
     - Karakterin çoğu animasyonları ve mekanikleri entegre edilmiştir.
     - Birinci Map bitmiş karakter ve platform animasyonları eklenilmesi için not alınmıştır.
-    - İkinci Map'e başlanılmış, taslağı hazırlanmıştır.
+    
 
 
