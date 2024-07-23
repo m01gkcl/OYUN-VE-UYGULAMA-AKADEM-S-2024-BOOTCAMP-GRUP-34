@@ -1,6 +1,6 @@
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 12 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Daily Scrum**: Daily Scrum toplantıları hem Whatsapp üzerinden hem de Discord üzerinden devam etmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır. Whatsapp üzerinde tasarım dili oturtulmuştur. Günlük olarak mekanik yazılımları ve modellemeler yapılmıştır.
 
